@@ -1,2 +1,7 @@
-# Algorytmy-Prywatyzujące-Dane
-Moja praca licencjacka pisana na Wydziale Matematyki i Informatyki Uniwersytetu Wrocławskiego z kierunku Indywidualne Studia Informatyczno-Matematyczne. Temat: "Analiza i zastosowania procesów stochastycznych w algorytmach prywatyzujących dane"
+# Praca Licencjacka
+
+Temat: "Analiza i zastosowania procesów stochastycznych w algorytmach prywatyzujących dane"
+
+Kierunek: Indywidualne Studia Informatyczno-Matematyczne
+
+Miejsce: Wydział Matematyki i Informatyki Uniwersytetu Wrocławskiego 
