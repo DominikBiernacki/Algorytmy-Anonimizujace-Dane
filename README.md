@@ -4,4 +4,4 @@ Temat: "Analiza i zastosowania procesów stochastycznych w algorytmach anonimizu
 
 Kierunek: Indywidualne Studia Informatyczno-Matematyczne
 
-Miejsce: Wydział Matematyki i Informatyki Uniwersytetu Wrocławskiego 
+Miejsce: Wydział Matematyki i Informatyki Uniwersytetu Wrocławskiego
